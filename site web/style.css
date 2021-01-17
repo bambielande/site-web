@@ -1,0 +1,38 @@
+body
+{
+   background-color: rgb(7, 8, 0);
+   margin: 0px;
+   font-size: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-image: url("images/fond.jpg");
+   color: white;
+}
+
+p
+{
+    color: rgb(8, 238, 0);
+    font-family: impact Comic Sans MS;
+}
+
+h1
+{
+    color: rgb(66, 235, 0);
+}
+
+h2
+{
+    color: rgb(20, 220, 97);
+}
+
+div
+{
+    margin: 40px auto;
+    width: 50%;
+    padding: 15px;
+    border: 10px solid #0d8;
+}
+
+li
+{
+    color: violet;
+}
